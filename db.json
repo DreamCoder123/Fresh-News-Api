@@ -1,264 +1,788 @@
 {
-    "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": "NDTV Sports Desk",
-            "title": "Japan vs Croatia FIFA World Cup 2022 Live: Ivan Perisic Nearly Puts Croatia In Front vs Japan; It's 1-1 - NDTV Sports",
-            "description": "FIFA World Cup 2022, Japan vs Croatia Live: Croatia and Japan square-off in Round of 16 match.",
-            "url": "https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-japan-vs-croatia-football-live-score-updates-3579830",
-            "urlToImage": "https://c.ndtvimg.com/2022-12/jna4piuo_japan-vs-croatia-_625x300_05_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
-            "publishedAt": "2022-12-05T16:35:26Z",
-            "content": "FIFA World Cup 2022, Japan vs Croatia, Round of 16  Live Updates:Both Japan and Croatia squandered a few early opportunities to score. But, just minutes before the half-time whistle, Daizen Maeda ope… [+254 chars]"
-        },
-        {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": "Sampath Bandarupalli",
-            "title": "Stats - 1768 runs, and a rare Test win in Pakistan - ESPNcricinfo",
-            "description": "Stats highlights from a run-fest in Rawalpindi, where England claimed a famous victory following a brave declaration",
-            "url": "https://www.espncricinfo.com/story/eng-vs-pak-2022-1st-test-stats-1768-runs-and-a-rare-test-win-in-pakistan-1348211",
-            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/350200/350294.6.jpg",
-            "publishedAt": "2022-12-05T15:28:06Z",
-            "content": "Stats AnalysisStats highlights from a run-fest in Rawalpindi, where England claimed a famous victory following a brave declaration"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": null,
-            "title": "Would I have declared when Ben Stokes did? I wouldn't have dared - The Telegraph",
-            "description": "Stokes has nothing left to prove as a player and that makes him exceptionally dangerous as a captain",
-            "url": "https://www.telegraph.co.uk/cricket/2022/12/05/would-have-declared-when-ben-stokes-did-wouldnt-have-dared/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/cricket/2022/12/05/TELEMMGLPICT000318711416_1_trans_NvBQzQNjv4Bq6Kep885cKhLnVNDtI739Rqmn_Tb9IEkYMJxts987ozA.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2022-12-05T13:59:00Z",
-            "content": "We have just witnessed a captaincy masterclass. Honestly, I cannot remember a better tactical performance by an England captain than the one Ben Stokes produced in Rawalpindi this week.\r\nI cant think… [+2360 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Sports Desk",
-            "title": "Cristiano Ronaldo joins Al-Nassr, agrees 200 million euros deal: Report - Hindustan Times",
-            "description": "Cristiano Ronaldo has made a sensational move to Saudi Arabia side Al-Nassr on a two and a half year deal, worth 200 million euros per season. | Football News",
-            "url": "https://www.hindustantimes.com/sports/football/cristiano-ronaldo-joins-al-nassr-agrees-200-million-euros-deal-report-101670245059222.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/Qatar-Soccer-W_1670245192841_1670245193036_1670245193036.jpg",
-            "publishedAt": "2022-12-05T13:01:28Z",
-            "content": "With Manchester United recently terminating his contract, Cristiano Ronaldo has sensationally joined Saudi Arabian club Al-Nassr on a two and a half year deal worth 200 million euros per season. The … [+1863 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Sports Desk",
-            "title": "How Pakistan's loss to England boosted India's chances of making WTC final - Hindustan Times",
-            "description": "For Pakistan, it was surely a heartbreak as they didn't just go down in the match and in the series, but their chances of making the World Tet Championship final suffered a major blow, which subsequently boosted India's chances. | Cricket",
-            "url": "https://www.hindustantimes.com/cricket/how-pakistan-s-loss-to-england-in-rawalpindi-boosted-india-s-chances-of-making-world-test-championship-final-101670242406781.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/New_Project_-_2022-12-05T174721839_1670242761259_1670242761434_1670242761434.jpg",
-            "publishedAt": "2022-12-05T12:38:30Z",
-            "content": "England scripted a sensational win on Monday the most benign of pitches as they beat Pakistan by 74 runs in the opening match of the series. It was a bold move on Sunday evening when they declared th… [+1979 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Sports Desk",
-            "title": "'Latif was a lobbyist, Sohail a zombie. Waqar was captain only because…': Akram - Hindustan Times",
-            "description": "As we inch closer to the release date of Wasim Akram's biography 'Sultan: The Memoir', more explosive details from the former Pakistan captain's career are coming to the fore. | Cricket",
-            "url": "https://www.hindustantimes.com/cricket/rashid-latif-was-a-lobbyist-aamir-sohail-zombie-waqar-was-captain-only-because-wasim-akram-s-shocking-claims-101670239399081.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/wasim-waqar-old-getty_1670239684421_1670239688875_1670239688875.jpg",
-            "publishedAt": "2022-12-05T11:30:07Z",
-            "content": "As we inch closer to the release date of Wasim Akram's biography 'Sultan: A Memoir', more explosive details from the former Pakistan captain's career are coming to the fore. The book, that has alread… [+2734 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Sports Desk",
-            "title": "'It'll happen if you don't respect the game': Jadeja slams IND's batting vs BAN - Hindustan Times",
-            "description": "India's batting was immensely criticised and Jadeja joined the bandwagon in questioning the approach of the Indian side, slamming them for not respecting the sport. | Cricket",
-            "url": "https://www.hindustantimes.com/cricket/itll-happen-if-you-don-t-respect-the-game-ajay-jadeja-questions-logic-behind-india-s-batting-approach-in-bangladesh-1st-odi-101670236468312.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/ANI-20221204139-0_1670236896158_1670236896158_1670236913908_1670236913908.jpg",
-            "publishedAt": "2022-12-05T11:07:17Z",
-            "content": "A sensational tenth-wicket partnership between Mehidy Hasan Miraz and Mustafizur Rahman helped Bangladesh recover from the middle-order collapse to secure a memorable one-wicket win in Mirpur. The In… [+2015 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cricbuzz"
-            },
-            "author": null,
-            "title": "Pacy Ebadot bolsters Bangladesh's middle overs attack | Cricbuzz.com - Cricbuzz - Cricbuzz",
-            "description": "The fast bowler is being seen as the bowler who can play an attacking role in ODIs",
-            "url": "https://www.cricbuzz.com/cricket-news/124727/pacy-ebadot-bolsters-bangladeshs-middle-overs-attack-cricbuzzcom",
-            "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249539/ebadot-picked-up-four-against-india.jpg",
-            "publishedAt": "2022-12-05T11:04:59Z",
-            "content": "It was not long ago when pacer Ebadot Hossain was considered to be a Test specialist. Considered to be one of the fastest bowlers, his lack of accuracy was held against him in the white-ball formats.… [+3944 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sportskeeda"
-            },
-            "author": "Sportskeeda Desk",
-            "title": "ALY vs HAW Live Score - ECS T10 - Barcelona Live Score & Commentary | Ali Youngstars vs Hawks CC Score - Sportskeeda",
-            "description": "Ali Youngstars vs Hawks CC ECS T10 - Barcelona Live Score - Catch live cricket score, ball by ball commentary and highlights of ALY vs HAW.",
-            "url": "https://www.sportskeeda.com/live-cricket-score/ali-youngstars-vs-hawks-cc-match-98-05-december-2022",
-            "urlToImage": null,
-            "publishedAt": "2022-12-05T10:56:22Z",
-            "content": "Hawks beat Ali Youngstars by 5 wickets!Mubashar Ali 72 (30)* | Karamat Subhani 2/19Kamran Zia 33 (19) | Farooq Ahmed 2/34\r\nHawks got off to a decent start and they managed to do this despite the bowl… [+1125 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Cricket Betting Tips and Fantasy Cricket Match Predictions: Barbados T10 2022 - Warriors vs Guardians, Match 1: 5th Dec - Cricket World",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy5jcmlja2V0d29ybGQuY29tL2NyaWNrZXQtYmV0dGluZy10aXBzLWFuZC1mYW50YXN5LWNyaWNrZXQtbWF0Y2gtcHJlZGljdGlvbnMtYmFyYmFkb3MtdDEwLTIwMjItd2FycmlvcnMtdnMtZ3VhcmRpYW5zLW1hdGNoLTEtNXRoLWRlYy84Mzc3Ni5odG3SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-12-05T10:38:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Formula 1"
-            },
-            "author": "F1",
-            "title": "‘My commitment is very much with Red Bull’ – Horner rules out Ferrari move after Binotto’s exit - Formula 1",
-            "description": "Christian Horner has made clear that he is not interested in switching Red Bull for Ferrari following confirmation that Mattia Binotto will leave the Scuderia at the end of the year.",
-            "url": "https://www.formula1.com/en/latest/article.my-commitment-is-very-much-with-red-bull-horner-rules-out-ferrari-move-after.NUM5PXjr7nQr2JQdbfRCh.html",
-            "urlToImage": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/MonacoGP/Sunday/horner-binotto.jpg",
-            "publishedAt": "2022-12-05T10:36:34Z",
-            "content": "Christian Horner has made clear that he is not interested in swapping Red Bull for Ferrari following confirmation that Mattia Binotto will leave the Scuderia at the end of the year.\r\nFerrari ended in… [+1828 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cricbuzz"
-            },
-            "author": null,
-            "title": "Azhar Ali, Agha Salman set up exhilarating final session in Rawalpindi | Cricbuzz.com - Cricbuzz - Cricbuzz",
-            "description": "The duo stitched an unbeaten 59-run stand for the sixth wicket, leaving Pakistan only 86 short of the target",
-            "url": "https://www.cricbuzz.com/cricket-news/124726/azhar-ali-agha-salman-set-up-exhilarating-final-session-in-rawalpindi-cricbuzzcom",
-            "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249537/ollie-robinson-picked-up-saud-shakeels-wicket.jpg",
-            "publishedAt": "2022-12-05T10:33:28Z",
-            "content": "Azhar Ali and Agha Salman survived late scares to head safely to Tea, with Pakistan at 257 for 5, only 86 runs short of the target on the fifth day in Rawalpindi. The duo stitched an unbeaten 59-run … [+2585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Zoom"
-            },
-            "author": "TN Sports Desk",
-            "title": "'Every U-16 or U-18 cricketer would know that...': Ex-Pak spinner slams Rohit Sharma after loss vs Bangladesh - Times Now",
-            "description": "Washington Sundar was one of the pick of the bowlers for India as he picked up 2 wickets for 17 runs. But, in spite of his good spell, he was only used for 5 overs. Hence, former Pak spinner questioned why Rohit did not use Sundar for his full quota.",
-            "url": "https://www.timesnownews.com/sports/cricket/every-u-16-or-u-18-cricketer-would-know-that-ex-pak-spinner-slams-rohit-sharma-after-loss-vs-bangladesh-article-95999784",
-            "urlToImage": "https://static.tnn.in/thumb/msid-95999784,imgsize-100,width-1280,height-720,resizemode-75/95999784.jpg",
-            "publishedAt": "2022-12-05T10:30:16Z",
-            "content": "52:03\r\nExit Polls Predict BJP Set To Retain Power In Gujarat, Close Contest In Himachal Pradesh | Times Now"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Sports Desk",
-            "title": "'This is no longer CR7, it's CR37': 70% fans don't want Ronaldo in starting XI - Hindustan Times",
-            "description": "Ahead of the knockout tie a poll conducted by a Portuguese sports newspaper A Bola showed a surprising outcome. | Football News",
-            "url": "https://www.hindustantimes.com/sports/football/this-is-no-longer-cr7-it-s-cr37-70-per-cent-portugal-fans-don-t-want-cristiano-ronaldo-in-starting-xi-vs-switzerland-101670232477275.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/FBL-WC-2022-TRAINING-POR-15_1670235226251_1670235226251_1670235261241_1670235261241.jpg",
-            "publishedAt": "2022-12-05T10:16:32Z",
-            "content": "Cristiano Ronaldo's Portugal will take on Switzerland in the round of 16 clash at the FIFA World Cup 2022 on Wednesday. However, ahead of the knockout tie a poll conducted by a Portuguese sports news… [+1856 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Sports Desk",
-            "title": "Watch - Blink and you'll miss: The 'SKY' sign on Rohit Sharma's bat, video viral - Hindustan Times",
-            "description": "Suryakumar Yadav is not part of India's ongoing tour of Bangladesh but his presence was briefly felt during the first ODI between India and Bangladesh on Sunday at Dhaka. | Cricket",
-            "url": "https://www.hindustantimes.com/cricket/watch-blink-and-you-ll-miss-camera-captures-suryakumar-yadav-sign-on-rohit-sharma-s-bat-during-1st-odi-video-viral-101670230886441.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/rohit-sky-bat_1670231558948_1670231564153_1670231564153.jpg",
-            "publishedAt": "2022-12-05T09:14:23Z",
-            "content": "Indian cricketers are usually very possessive about their equipment and kits, but apparently, it isn't the case with the current lot. Suryakumar Yadav is not part of India's ongoing tour of Banglades… [+2805 chars]"
-        },
-        {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": "ESPNcricinfo staff",
-            "title": "Shafali Verma to lead India at Under-19 Women's T20 World Cup, Richa Ghosh also picked - ESPNcricinfo",
-            "description": "Shweta Sehrawat, who is currently leading the Under-19 girls against New Zealand in Mumbai, has been named vice-captain",
-            "url": "https://www.espncricinfo.com/story/shafali-verma-to-lead-india-at-under-19-womens-world-cup-richa-ghosh-also-picked-1348179",
-            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/347400/347488.6.jpg",
-            "publishedAt": "2022-12-05T08:10:41Z",
-            "content": "NewsShweta Sehrawat, who is currently leading the Under-19 girls against New Zealand in Mumbai, has been named vice-captain"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Arab News"
-            },
-            "author": "AP",
-            "title": "Saudi Arabia set to host 2027 Asian Cup after India withdraws bid - Arab News",
-            "description": "KUALA LUMPUR: Saudi Arabia is set to host the 2027 Asian Cup after India withdrew its bid. The Asian Football Confederation issued a statement Monday saying the All Indian Football Federation had withdrawn from the host selection process. No reason was publis…",
-            "url": "https://www.arabnews.com/node/2211001",
-            "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/12/05/3571726-1518726147.jpg?itok=po696h0j",
-            "publishedAt": "2022-12-05T08:03:08Z",
-            "content": "DUBAI: The best 16 mens and 12 womens teams in the world took to the pitch at this years Emirates Dubai 7s as part of the HSBC World Rugby Sevens Series calendar, and there is compelling evidence tha… [+3347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Insidesport.in"
-            },
-            "author": null,
-            "title": "India New T20 Coach: Rahul Dravid on his way-out? BCCI 'seriously mulling' of appointing NEW-COACH for India's T20 team: Follow LIVE UPDATES - InsideSport",
-            "description": "India New T20 Coach: BCCI 'seriously mulling' of appointing NEW-COACH for India's T20 team, Rahul Dravid on his way-out, IND vs BAN LIVE, IND SL T20 Series",
-            "url": "https://www.insidesport.in/india-new-t20-coach-bcci-seriously-mulling-of-appointing-new-coach-for-indias-t20-team-rahul-dravid-on-his-way-out-follow-live-updates/",
-            "urlToImage": "https://www.insidesport.in/wp-content/uploads/2022/12/eng-banner-Copy.jpg?w=809",
-            "publishedAt": "2022-12-05T07:59:36Z",
-            "content": "India New T20 Coach – Rahul Dravid on his WAY-OUT? The info coming out of the BCCI Headquarters in Mumbai is that…India New T20 Coach –Rahul Dravid on his WAY-OUT? The info coming out of the BCCI Hea… [+4647 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cricbuzz"
-            },
-            "author": null,
-            "title": "Jaydev Unadkat and the transformative arc of Saurashtra's white-ball cricket | Cricbuzz.com - Cricbuzz - Cricbuzz",
-            "description": "A formidable force in red-ball cricket, Saurashtra have evolved by leaps and bounds in the shorter forms with the Vijay Hazare Trophy win a testament to their rise",
-            "url": "https://www.cricbuzz.com/cricket-news/124724/jaydev-unadkat-and-the-transformative-arc-of-saurashtras-white-ball-cricket-cricbuzzcom",
-            "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249531/in-the-centre-of-the-saurashtra-renaissance-jaydev-unadkat.jpg",
-            "publishedAt": "2022-12-05T07:36:55Z",
-            "content": "Jaydev to Jaydev... that transformation is the astonishing narrative of Saurashtra's white-ball success. Jaydev Shah, a record holder in captaincy in first class cricket, built a strong red-ball team… [+5406 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sporting News"
-            },
-            "author": null,
-            "title": "'You're f*cking Neymar!' - Can Brazil's most polarising player reignite World Cup campaign? - GOAL English",
-            "description": "Get all the latest Soccer news, highlights, scores, schedules, standings and more from Sporting News Canada.",
-            "url": "https://www.sportingnews.com/ca/soccer",
-            "urlToImage": "https://static.sportingnews.com/1.21.1.2/themes/custom/tsn/logo.jpg",
-            "publishedAt": "2022-12-05T07:01:39Z",
-            "content": null
-        }
-    ]
+  "sports": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Japan vs Croatia FIFA World Cup 2022 Live: Ivan Perisic Nearly Puts Croatia In Front vs Japan; It's 1-1 - NDTV Sports",
+      "description": "FIFA World Cup 2022, Japan vs Croatia Live: Croatia and Japan square-off in Round of 16 match.",
+      "url": "https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-japan-vs-croatia-football-live-score-updates-3579830",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/jna4piuo_japan-vs-croatia-_625x300_05_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-12-05T16:35:26Z",
+      "content": "FIFA World Cup 2022, Japan vs Croatia, Round of 16  Live Updates:Both Japan and Croatia squandered a few early opportunities to score. But, just minutes before the half-time whistle, Daizen Maeda ope… [+254 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Sampath Bandarupalli",
+      "title": "Stats - 1768 runs, and a rare Test win in Pakistan - ESPNcricinfo",
+      "description": "Stats highlights from a run-fest in Rawalpindi, where England claimed a famous victory following a brave declaration",
+      "url": "https://www.espncricinfo.com/story/eng-vs-pak-2022-1st-test-stats-1768-runs-and-a-rare-test-win-in-pakistan-1348211",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/350200/350294.6.jpg",
+      "publishedAt": "2022-12-05T15:28:06Z",
+      "content": "Stats AnalysisStats highlights from a run-fest in Rawalpindi, where England claimed a famous victory following a brave declaration"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": null,
+      "title": "Would I have declared when Ben Stokes did? I wouldn't have dared - The Telegraph",
+      "description": "Stokes has nothing left to prove as a player and that makes him exceptionally dangerous as a captain",
+      "url": "https://www.telegraph.co.uk/cricket/2022/12/05/would-have-declared-when-ben-stokes-did-wouldnt-have-dared/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/cricket/2022/12/05/TELEMMGLPICT000318711416_1_trans_NvBQzQNjv4Bq6Kep885cKhLnVNDtI739Rqmn_Tb9IEkYMJxts987ozA.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2022-12-05T13:59:00Z",
+      "content": "We have just witnessed a captaincy masterclass. Honestly, I cannot remember a better tactical performance by an England captain than the one Ben Stokes produced in Rawalpindi this week.\r\nI cant think… [+2360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Cristiano Ronaldo joins Al-Nassr, agrees 200 million euros deal: Report - Hindustan Times",
+      "description": "Cristiano Ronaldo has made a sensational move to Saudi Arabia side Al-Nassr on a two and a half year deal, worth 200 million euros per season. | Football News",
+      "url": "https://www.hindustantimes.com/sports/football/cristiano-ronaldo-joins-al-nassr-agrees-200-million-euros-deal-report-101670245059222.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/Qatar-Soccer-W_1670245192841_1670245193036_1670245193036.jpg",
+      "publishedAt": "2022-12-05T13:01:28Z",
+      "content": "With Manchester United recently terminating his contract, Cristiano Ronaldo has sensationally joined Saudi Arabian club Al-Nassr on a two and a half year deal worth 200 million euros per season. The … [+1863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "How Pakistan's loss to England boosted India's chances of making WTC final - Hindustan Times",
+      "description": "For Pakistan, it was surely a heartbreak as they didn't just go down in the match and in the series, but their chances of making the World Tet Championship final suffered a major blow, which subsequently boosted India's chances. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/how-pakistan-s-loss-to-england-in-rawalpindi-boosted-india-s-chances-of-making-world-test-championship-final-101670242406781.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/New_Project_-_2022-12-05T174721839_1670242761259_1670242761434_1670242761434.jpg",
+      "publishedAt": "2022-12-05T12:38:30Z",
+      "content": "England scripted a sensational win on Monday the most benign of pitches as they beat Pakistan by 74 runs in the opening match of the series. It was a bold move on Sunday evening when they declared th… [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "'Latif was a lobbyist, Sohail a zombie. Waqar was captain only because…': Akram - Hindustan Times",
+      "description": "As we inch closer to the release date of Wasim Akram's biography 'Sultan: The Memoir', more explosive details from the former Pakistan captain's career are coming to the fore. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/rashid-latif-was-a-lobbyist-aamir-sohail-zombie-waqar-was-captain-only-because-wasim-akram-s-shocking-claims-101670239399081.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/wasim-waqar-old-getty_1670239684421_1670239688875_1670239688875.jpg",
+      "publishedAt": "2022-12-05T11:30:07Z",
+      "content": "As we inch closer to the release date of Wasim Akram's biography 'Sultan: A Memoir', more explosive details from the former Pakistan captain's career are coming to the fore. The book, that has alread… [+2734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "'It'll happen if you don't respect the game': Jadeja slams IND's batting vs BAN - Hindustan Times",
+      "description": "India's batting was immensely criticised and Jadeja joined the bandwagon in questioning the approach of the Indian side, slamming them for not respecting the sport. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/itll-happen-if-you-don-t-respect-the-game-ajay-jadeja-questions-logic-behind-india-s-batting-approach-in-bangladesh-1st-odi-101670236468312.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/ANI-20221204139-0_1670236896158_1670236896158_1670236913908_1670236913908.jpg",
+      "publishedAt": "2022-12-05T11:07:17Z",
+      "content": "A sensational tenth-wicket partnership between Mehidy Hasan Miraz and Mustafizur Rahman helped Bangladesh recover from the middle-order collapse to secure a memorable one-wicket win in Mirpur. The In… [+2015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricbuzz"
+      },
+      "author": null,
+      "title": "Pacy Ebadot bolsters Bangladesh's middle overs attack | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "The fast bowler is being seen as the bowler who can play an attacking role in ODIs",
+      "url": "https://www.cricbuzz.com/cricket-news/124727/pacy-ebadot-bolsters-bangladeshs-middle-overs-attack-cricbuzzcom",
+      "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249539/ebadot-picked-up-four-against-india.jpg",
+      "publishedAt": "2022-12-05T11:04:59Z",
+      "content": "It was not long ago when pacer Ebadot Hossain was considered to be a Test specialist. Considered to be one of the fastest bowlers, his lack of accuracy was held against him in the white-ball formats.… [+3944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Sportskeeda Desk",
+      "title": "ALY vs HAW Live Score - ECS T10 - Barcelona Live Score & Commentary | Ali Youngstars vs Hawks CC Score - Sportskeeda",
+      "description": "Ali Youngstars vs Hawks CC ECS T10 - Barcelona Live Score - Catch live cricket score, ball by ball commentary and highlights of ALY vs HAW.",
+      "url": "https://www.sportskeeda.com/live-cricket-score/ali-youngstars-vs-hawks-cc-match-98-05-december-2022",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T10:56:22Z",
+      "content": "Hawks beat Ali Youngstars by 5 wickets!Mubashar Ali 72 (30)* | Karamat Subhani 2/19Kamran Zia 33 (19) | Farooq Ahmed 2/34\r\nHawks got off to a decent start and they managed to do this despite the bowl… [+1125 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Cricket Betting Tips and Fantasy Cricket Match Predictions: Barbados T10 2022 - Warriors vs Guardians, Match 1: 5th Dec - Cricket World",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy5jcmlja2V0d29ybGQuY29tL2NyaWNrZXQtYmV0dGluZy10aXBzLWFuZC1mYW50YXN5LWNyaWNrZXQtbWF0Y2gtcHJlZGljdGlvbnMtYmFyYmFkb3MtdDEwLTIwMjItd2FycmlvcnMtdnMtZ3VhcmRpYW5zLW1hdGNoLTEtNXRoLWRlYy84Mzc3Ni5odG3SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T10:38:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Formula 1"
+      },
+      "author": "F1",
+      "title": "‘My commitment is very much with Red Bull’ – Horner rules out Ferrari move after Binotto’s exit - Formula 1",
+      "description": "Christian Horner has made clear that he is not interested in switching Red Bull for Ferrari following confirmation that Mattia Binotto will leave the Scuderia at the end of the year.",
+      "url": "https://www.formula1.com/en/latest/article.my-commitment-is-very-much-with-red-bull-horner-rules-out-ferrari-move-after.NUM5PXjr7nQr2JQdbfRCh.html",
+      "urlToImage": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/MonacoGP/Sunday/horner-binotto.jpg",
+      "publishedAt": "2022-12-05T10:36:34Z",
+      "content": "Christian Horner has made clear that he is not interested in swapping Red Bull for Ferrari following confirmation that Mattia Binotto will leave the Scuderia at the end of the year.\r\nFerrari ended in… [+1828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricbuzz"
+      },
+      "author": null,
+      "title": "Azhar Ali, Agha Salman set up exhilarating final session in Rawalpindi | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "The duo stitched an unbeaten 59-run stand for the sixth wicket, leaving Pakistan only 86 short of the target",
+      "url": "https://www.cricbuzz.com/cricket-news/124726/azhar-ali-agha-salman-set-up-exhilarating-final-session-in-rawalpindi-cricbuzzcom",
+      "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249537/ollie-robinson-picked-up-saud-shakeels-wicket.jpg",
+      "publishedAt": "2022-12-05T10:33:28Z",
+      "content": "Azhar Ali and Agha Salman survived late scares to head safely to Tea, with Pakistan at 257 for 5, only 86 runs short of the target on the fifth day in Rawalpindi. The duo stitched an unbeaten 59-run … [+2585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "TN Sports Desk",
+      "title": "'Every U-16 or U-18 cricketer would know that...': Ex-Pak spinner slams Rohit Sharma after loss vs Bangladesh - Times Now",
+      "description": "Washington Sundar was one of the pick of the bowlers for India as he picked up 2 wickets for 17 runs. But, in spite of his good spell, he was only used for 5 overs. Hence, former Pak spinner questioned why Rohit did not use Sundar for his full quota.",
+      "url": "https://www.timesnownews.com/sports/cricket/every-u-16-or-u-18-cricketer-would-know-that-ex-pak-spinner-slams-rohit-sharma-after-loss-vs-bangladesh-article-95999784",
+      "urlToImage": "https://static.tnn.in/thumb/msid-95999784,imgsize-100,width-1280,height-720,resizemode-75/95999784.jpg",
+      "publishedAt": "2022-12-05T10:30:16Z",
+      "content": "52:03\r\nExit Polls Predict BJP Set To Retain Power In Gujarat, Close Contest In Himachal Pradesh | Times Now"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "'This is no longer CR7, it's CR37': 70% fans don't want Ronaldo in starting XI - Hindustan Times",
+      "description": "Ahead of the knockout tie a poll conducted by a Portuguese sports newspaper A Bola showed a surprising outcome. | Football News",
+      "url": "https://www.hindustantimes.com/sports/football/this-is-no-longer-cr7-it-s-cr37-70-per-cent-portugal-fans-don-t-want-cristiano-ronaldo-in-starting-xi-vs-switzerland-101670232477275.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/FBL-WC-2022-TRAINING-POR-15_1670235226251_1670235226251_1670235261241_1670235261241.jpg",
+      "publishedAt": "2022-12-05T10:16:32Z",
+      "content": "Cristiano Ronaldo's Portugal will take on Switzerland in the round of 16 clash at the FIFA World Cup 2022 on Wednesday. However, ahead of the knockout tie a poll conducted by a Portuguese sports news… [+1856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Watch - Blink and you'll miss: The 'SKY' sign on Rohit Sharma's bat, video viral - Hindustan Times",
+      "description": "Suryakumar Yadav is not part of India's ongoing tour of Bangladesh but his presence was briefly felt during the first ODI between India and Bangladesh on Sunday at Dhaka. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/watch-blink-and-you-ll-miss-camera-captures-suryakumar-yadav-sign-on-rohit-sharma-s-bat-during-1st-odi-video-viral-101670230886441.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/rohit-sky-bat_1670231558948_1670231564153_1670231564153.jpg",
+      "publishedAt": "2022-12-05T09:14:23Z",
+      "content": "Indian cricketers are usually very possessive about their equipment and kits, but apparently, it isn't the case with the current lot. Suryakumar Yadav is not part of India's ongoing tour of Banglades… [+2805 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "ESPNcricinfo staff",
+      "title": "Shafali Verma to lead India at Under-19 Women's T20 World Cup, Richa Ghosh also picked - ESPNcricinfo",
+      "description": "Shweta Sehrawat, who is currently leading the Under-19 girls against New Zealand in Mumbai, has been named vice-captain",
+      "url": "https://www.espncricinfo.com/story/shafali-verma-to-lead-india-at-under-19-womens-world-cup-richa-ghosh-also-picked-1348179",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/347400/347488.6.jpg",
+      "publishedAt": "2022-12-05T08:10:41Z",
+      "content": "NewsShweta Sehrawat, who is currently leading the Under-19 girls against New Zealand in Mumbai, has been named vice-captain"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Arab News"
+      },
+      "author": "AP",
+      "title": "Saudi Arabia set to host 2027 Asian Cup after India withdraws bid - Arab News",
+      "description": "KUALA LUMPUR: Saudi Arabia is set to host the 2027 Asian Cup after India withdrew its bid. The Asian Football Confederation issued a statement Monday saying the All Indian Football Federation had withdrawn from the host selection process. No reason was publis…",
+      "url": "https://www.arabnews.com/node/2211001",
+      "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/12/05/3571726-1518726147.jpg?itok=po696h0j",
+      "publishedAt": "2022-12-05T08:03:08Z",
+      "content": "DUBAI: The best 16 mens and 12 womens teams in the world took to the pitch at this years Emirates Dubai 7s as part of the HSBC World Rugby Sevens Series calendar, and there is compelling evidence tha… [+3347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insidesport.in"
+      },
+      "author": null,
+      "title": "India New T20 Coach: Rahul Dravid on his way-out? BCCI 'seriously mulling' of appointing NEW-COACH for India's T20 team: Follow LIVE UPDATES - InsideSport",
+      "description": "India New T20 Coach: BCCI 'seriously mulling' of appointing NEW-COACH for India's T20 team, Rahul Dravid on his way-out, IND vs BAN LIVE, IND SL T20 Series",
+      "url": "https://www.insidesport.in/india-new-t20-coach-bcci-seriously-mulling-of-appointing-new-coach-for-indias-t20-team-rahul-dravid-on-his-way-out-follow-live-updates/",
+      "urlToImage": "https://www.insidesport.in/wp-content/uploads/2022/12/eng-banner-Copy.jpg?w=809",
+      "publishedAt": "2022-12-05T07:59:36Z",
+      "content": "India New T20 Coach – Rahul Dravid on his WAY-OUT? The info coming out of the BCCI Headquarters in Mumbai is that…India New T20 Coach –Rahul Dravid on his WAY-OUT? The info coming out of the BCCI Hea… [+4647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricbuzz"
+      },
+      "author": null,
+      "title": "Jaydev Unadkat and the transformative arc of Saurashtra's white-ball cricket | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "A formidable force in red-ball cricket, Saurashtra have evolved by leaps and bounds in the shorter forms with the Vijay Hazare Trophy win a testament to their rise",
+      "url": "https://www.cricbuzz.com/cricket-news/124724/jaydev-unadkat-and-the-transformative-arc-of-saurashtras-white-ball-cricket-cricbuzzcom",
+      "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249531/in-the-centre-of-the-saurashtra-renaissance-jaydev-unadkat.jpg",
+      "publishedAt": "2022-12-05T07:36:55Z",
+      "content": "Jaydev to Jaydev... that transformation is the astonishing narrative of Saurashtra's white-ball success. Jaydev Shah, a record holder in captaincy in first class cricket, built a strong red-ball team… [+5406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sporting News"
+      },
+      "author": null,
+      "title": "'You're f*cking Neymar!' - Can Brazil's most polarising player reignite World Cup campaign? - GOAL English",
+      "description": "Get all the latest Soccer news, highlights, scores, schedules, standings and more from Sporting News Canada.",
+      "url": "https://www.sportingnews.com/ca/soccer",
+      "urlToImage": "https://static.sportingnews.com/1.21.1.2/themes/custom/tsn/logo.jpg",
+      "publishedAt": "2022-12-05T07:01:39Z",
+      "content": null
+    }
+  ],
+  "business": [
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Wall St falls after strong service-sector data feeds hawkish Fed fears By Reuters - Investing.com",
+      "description": "Wall St falls after strong service-sector data feeds hawkish Fed fears",
+      "url": "https://www.investing.com/news/economy/futures-fall-as-investors-await-more-data-before-fed-meet-2957414",
+      "urlToImage": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "publishedAt": "2022-12-05T17:41:00Z",
+      "content": "By Ankika Biswas and Devik Jain\r\n(Reuters) -U.S. stock indexes fell on Monday after better-than-expected service-sector activity added to jitters that the Federal Reserve might continue to hike inter… [+3048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "Trade setup for Tuesday: Top 15 things to know before the opening bell - Moneycontrol",
+      "description": "Based on the open interest future percentage, we have seen a long build-up in a total of 58 stocks on Monday, including Gujarat Narmada Valley Fertilizers &amp; Chemicals (GNFC), M&amp;M Financial Services, Piramal Enterprises, Hindalco Industries, and City U…",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-top-15-things-to-know-before-the-opening-bell-15-9654521.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/11/market-analysis-770x433.jpg",
+      "publishedAt": "2022-12-05T17:03:09Z",
+      "content": "The equity market on December 5 ended the volatile and rangebound session on a flat note, as traders maintained caution ahead of Monetary Policy Committee's three-day meeting outcome scheduled on Dec… [+11499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Oil prices fall after data raises U.S. Fed interest rate worries By Reuters - Investing.com",
+      "description": "Oil falls nearly 3% after data raises Fed interest rate worries",
+      "url": "https://www.investing.com/news/commodities-news/oil-rises-after-opec-holds-oil-output-targets-china-eases-covid-curbs-2956947",
+      "urlToImage": "https://i-invdn-com.investing.com/news/OPEC_800x533_L_1601882884.jpg",
+      "publishedAt": "2022-12-05T16:52:00Z",
+      "content": "By Stephanie Kelly\r\nNEW YORK (Reuters) - Oil prices fell nearly 3% on Monday, following U.S. stock markets lower, after U.S. service sector data raised worries that the Federal Reserve could continue… [+2043 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Shares slip, yields rise as U.S. data sparks rate hike concerns - Reuters",
+      "description": "Global stocks slid and Treasury yields rose on Monday as investors ignored an easing of China's pandemic restrictions that have weighed on global growth after fresh evidence of a strong U.S. economy raised fears interest rates will stay higher for longer.",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2022-12-05/",
+      "urlToImage": "https://www.reuters.com/resizer/rCwy7mHTF_JeUP1Hc3MCzeV15M8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6C56CDETQ5K2RGMHQXHLRXWERY.jpg",
+      "publishedAt": "2022-12-05T16:43:00Z",
+      "content": "NEW YORK/LONDON, Dec 5 (Reuters) - Global stocks slid and Treasury yields rose on Monday as investors ignored an easing of China's pandemic restrictions that have weighed on global growth after fresh… [+3846 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "US Services PMI at 56.5%; November 2022 Services ISM Report On Business - Forex Factory",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZvcmV4ZmFjdG9yeS5jb20vbmV3cy8xMTkzMjc3LXVzLXNlcnZpY2VzLXBtaS1hdC01NjUtbm92ZW1iZXItMjAyMi1zZXJ2aWNlc9IBW2h0dHBzOi8vd3d3LmZvcmV4ZmFjdG9yeS5jb20vbmV3cy8xMTkzMjc3LXVzLXNlcnZpY2VzLXBtaS1hdC01NjUtbm92ZW1iZXItMjAyMi1zZXJ2aWNlcy9hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "Technical glitch in Kotak Securities app leaves investors hassled - Moneycontrol",
+      "description": "Users were unable to place orders or square off positions as the app was down the whole day",
+      "url": "https://www.moneycontrol.com/news/business/markets/technical-glitch-in-kotak-securities-app-leaves-investors-hassled-9654091.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/02/technical-glitch-shutterstock-770x433.jpg",
+      "publishedAt": "2022-12-05T14:59:23Z",
+      "content": "Several investors and traders took to Twitter to complain about technical glitches faced by them while using the Kotak Neo app on December 5. Users were unable to place orders, or square off position… [+1586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Vipul Das",
+      "title": "Multibagger stock rallies 2165% in 3 yrs, record date fixed for 1:3 bonus shares | Mint - Mint",
+      "description": "Small-cap firm Sarthak Industries Ltd operates in the commercial services industry and has a market valuation of  ₹125.37 Cr.",
+      "url": "https://www.livemint.com/market/stock-market-news/multibagger-stock-rallies-2165-in-3-yrs-record-date-fixed-for-1-3-bonus-shares-11670251465795.html",
+      "urlToImage": "https://images.livemint.com/img/2022/12/05/600x338/KVP8IM6W_1600274980295_1600274984745_1670251521958_1670251521958.jpg",
+      "publishedAt": "2022-12-05T14:48:12Z",
+      "content": "Small-cap firm Sarthak Industries Ltd operates in the commercial services industry and has a market valuation of 125.37 Cr. The company operates a factory in the industrial area of Pithampur, Distric… [+2118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FXStreet"
+      },
+      "author": "Dhwani Mehta",
+      "title": "Gold Price Forecast: XAU/USD bulls gearing up for a rally toward $1,822 – Confluence Detector - FXStreet",
+      "description": "Gold price is trading close to its best levels in five months above $1,800 at the start of a new week, with risk flows dominating as China expands the",
+      "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bulls-gearing-up-for-a-rally-toward-1-822-confluence-detector-202212050221",
+      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/gold-on-weight-scale-gm165418687-21879510_Large.jpg",
+      "publishedAt": "2022-12-05T14:00:00Z",
+      "content": "<ul><li>Gold price kicks off the week on a solid footing, as the US Dollar extends weakness.  </li><li>China reopening optimism and dovish Fed expectations offset higher US Treasury yields. </li><li>… [+2332 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ipowatch.in"
+      },
+      "author": "IPOWatch Team",
+      "title": "Arham Technologies IPO GMP, Date, Price, Review, Allotment - IPO Watch",
+      "description": "Arham Technologies IPO date is December 5. Check Arham Technologies IPO GMP, review, price band, lot size, form, listing & IPO allotment status.",
+      "url": "https://ipowatch.in/arham-technologies-ipo-gmp-date-price-review-allotment/",
+      "urlToImage": "https://ipowatch.in/wp-content/uploads/2022/12/arham-technologies-ipo.webp",
+      "publishedAt": "2022-12-05T13:13:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CarToq.com"
+      },
+      "author": "CarToq Editor",
+      "title": "Toyota Innova HyCross seen next to a Fortuner luxury SUV - CarToq.com",
+      "description": "The media drives of the Toyota Innova HyCross hybrid MPV are on, and the Japanese automaker is positioning its latest offering as a crossover thanks to the butch design language. Here is a picture of the Innova HyCross next to a Toyota Fortuner luxury SUV. Fr…",
+      "url": "https://www.cartoq.com/toyota-innova-hycross-seen-next-to-a-fortuner-luxury-suv/",
+      "urlToImage": "https://www.cartoq.com/wp-content/uploads/2022/12/toyota-innova-hycross-next-to-a-fortuner-featured.jpg",
+      "publishedAt": "2022-12-05T12:07:35Z",
+      "content": "The media drives of the Toyota Innova HyCross hybrid MPV are on, and the Japanese automaker is positioning its latest offering as a crossover thanks to the butch design language. Here is a picture of… [+3039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Tata Motors mulling price hike for passenger vehicles from next month - Business Standard",
+      "description": "In an interaction with PTI Tata Motors Managing Director  Passenger Vehicle and Electric Vehicles Shailesh Chandra said the price revision would also offset the impact of commodity prices",
+      "url": "https://www.business-standard.com/article/companies/tata-motors-mulling-price-hike-for-passenger-vehicles-from-next-month-122120500821_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/27/full/1656301005-7259.jpg",
+      "publishedAt": "2022-12-05T11:46:00Z",
+      "content": "Tata Motors is looking to increase passenger vehicle prices from next month in order to make its model range compliant with stricter emission norms which kick in from April 1 next year, according to … [+2447 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Spotlight",
+      "title": "ZS PRIZE healthcare tech challenge to identify smart health solutions set to transform future healthcare i - Economic Times",
+      "description": "The ZS PRIZE tech challenge is conducted in multiple phases, starting from registration and submission of ideas by participants, followed by evaluation of submissions by healthcare industry experts and shortlisting of the most innovative ideas.",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/zs-prize-healthcare-tech-challenge-to-identify-smart-health-solutions-set-to-transform-future-healthcare-in-india-says-zss-mohit-sood/articleshow/96001983.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-96002014,width-1070,height-580,imgsize-133258,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-12-05T10:54:00Z",
+      "content": "The growing usage of technologies like artificial intelligence (AI), machine learning (ML), augmented reality (AR), and virtual reality (AR) in healthcare help provide much-needed impetus to signific… [+4792 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "IDBI Bank ready for take-off at a very high speed, says Chief Sharma - BusinessLine",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbW9uZXktYW5kLWJhbmtpbmcvaWRiaS1iYW5rLXJlYWR5LWZvci10YWtlLW9mZi1hdC1hLXZlcnktaGlnaC1zcGVlZC1zYXlzLWNoaWVmLXNoYXJtYS9hcnRpY2xlNjYyMjU3ODAuZWNl0gGTAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9tb25leS1hbmQtYmFua2luZy9pZGJpLWJhbmstcmVhZHktZm9yLXRha2Utb2ZmLWF0LWEtdmVyeS1oaWdoLXNwZWVkLXNheXMtY2hpZWYtc2hhcm1hL2FydGljbGU2NjIyNTc4MC5lY2UvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T10:27:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Team-BHP"
+      },
+      "author": "Tushar Kelshikar",
+      "title": "VW Tiguan Exclusive Edition launched at Rs. 33.49 lakh - Team-BHP",
+      "description": "Volkswagen has announced the launch of the Tiguan Exclusive Edition in India. The SUV has been priced at Rs. 33.49 lakh (ex-showroom). The Tiguan Exclusive Edition comes with 18-inch Sebring Sterling Silver alloy wheels, special exterior badges, load sill pro…",
+      "url": "https://www.team-bhp.com/news/vw-tiguan-exclusive-edition-launched-rs-3349-lakh",
+      "urlToImage": "https://www.team-bhp.com/sites/default/files/styles/large/public/Tiguan Exclusive Edition.jpg",
+      "publishedAt": "2022-12-05T10:23:45Z",
+      "content": "Volkswagen has announced the launch of the Tiguan Exclusive Edition in India. The SUV has been priced at Rs. 33.49 lakh (ex-showroom).\r\nThe Tiguan Exclusive Edition comes with 18-inch Sebring Sterlin… [+716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "This is Indian banking sector's Cinderella time: Uday Kotak - Moneycontrol",
+      "description": "In an interview with The Economic Times, Kotak Mahindra Bank chief executive officer said that the Indian banking sector today has the sweetest credit cycle in many years",
+      "url": "https://www.moneycontrol.com/news/business/this-is-indian-banking-sectors-cinderella-time-uday-kotak-9651971.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/04/Uday-Kotak-770x433.jpg",
+      "publishedAt": "2022-12-05T09:38:02Z",
+      "content": "Uday Kotak, chief executive of Kotak Mahindra Bank feels that the time has come for getting investments back. Describing the global investors' behavior towards India, the billionaire banker in an int… [+1213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Pooja Sitaram Jaiswar",
+      "title": "SBI's personal banking advances cross ₹5 lakh-cr mark; stock nears 1-year high | Mint - Mint",
+      "description": "This would be a significant achievement considering the bank completed this last  ₹1 trillion growth in just 12 months. Also, the trajectory indicated the bank's progression at an accelerated pace.",
+      "url": "https://www.livemint.com/companies/news/sbi-s-personal-banking-advances-cross-5-lakh-cr-mark-stock-nears-1-year-high-11670230456794.html",
+      "urlToImage": "https://images.livemint.com/img/2022/12/05/600x338/46836d52-b62d-11eb-a5c7-ab40cc670af5_1625813004988_1670230630043_1670230630043.jpg",
+      "publishedAt": "2022-12-05T09:11:35Z",
+      "content": "Largest lender in India, SBI has touched a new milestone in personal banking advances by crossing the 5 trillion mark by end of November 2022. This would be a significant achievement considering the … [+2979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "Shruti Malhotra",
+      "title": "Heathifyme Announces Laying Off 150 Employees Joining The List Of Growing Layoffs In Indian Startups - CNBCTV18",
+      "description": "The firm has laid off 142 employees or 7 percent of its 2000+ employees. The move has impacted 79 (6 percent) employees from the operations team and 63 (23 percent) from the core team.",
+      "url": "https://www.cnbctv18.com/business/companies/healthifyme-becomes-the-latest-startup-to-announce-layoffs-will-slash-142-jobs-15331501.htm",
+      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2022/09/Layoffs.jpg",
+      "publishedAt": "2022-12-05T08:59:27Z",
+      "content": "Previous Article\r\nTata Motors mulling price hike for passenger vehicles from next month"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Vipul Das",
+      "title": "Axis Bank revises bulk FD rates, new interest rates are effective from today | Mint - Mint",
+      "description": "Axis Bank, one of the top private sector lenders, altered the interest rates on bulk fixed deposits.",
+      "url": "https://www.livemint.com/industry/banking/axis-bank-revises-bulk-fd-rates-new-interest-rates-are-effective-from-today-11670230477615.html",
+      "urlToImage": "https://images.livemint.com/img/2022/12/05/600x338/Fixed_deposit_rates_1561114822692_1670230518176_1670230518176.jpg",
+      "publishedAt": "2022-12-05T08:58:57Z",
+      "content": "Axis Bank, one of the top private sector lenders, altered the interest rates on bulk fixed deposits. According to the bank's official website, the new rates are in effect as of today, December 5, 202… [+1892 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Vodafone CEO Nick Read to step down after four years - Economic Times",
+      "description": "I agreed with the board that now is the right moment to hand over to a new leader who can build on Vodafone's strengths and capture the significant opportunities ahead,  Read said.",
+      "url": "https://economictimes.indiatimes.com/news/international/business/vodafone-ceo-nick-read-to-step-down/articleshow/95996209.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-95996363,width-1070,height-580,imgsize-59016,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-12-05T08:42:00Z",
+      "content": "Nick Read will step down as head of Vodafone by the end of the year and be replaced on an interim basis by his finance director, bringing an end to a four-year tenure marked by a near halving of its … [+1726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Larsentoubro.com"
+      },
+      "author": null,
+      "title": "L&T Construction awarded yet another contract (Large*) in the Bullet Train Project - L&T",
+      "description": "",
+      "url": "https://www.larsentoubro.com/pressreleases/2022-12-05-lt-construction-awarded-yet-another-contract-large-in-the-bullet-train-project/",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T07:47:49Z",
+      "content": "Mumbai: The Buildings &amp; Factories Business of L&amp;T Construction has secured an order from the National High-Speed Rail Corporation Limited (NHSRCL) to construct the Sabarmati Depot (MAHSR D-2)… [+747 chars]"
+    }
+  ],
+  "technology": [
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The Witcher 3 PS4 vs PS5 Next Gen Update - GameSpot",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DieLbOS0ExQU",
+      "urlToImage": null,
+      "publishedAt": "2022-12-05T17:00:22Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Peter",
+      "title": "Samsung and El Ganso reveal fashionable lanyards for Galaxy Z Flip4 owners in Spain and Portugal - GSMArena.com news - GSMArena.com",
+      "description": "El Ganso is a fashion brand native to Spain.",
+      "url": "https://www.gsmarena.com/samsung_and_el_ganso_reveal_fashionable_lanyards_for_galaxy_z_flip4_owners_in_spain_and_portugal-news-56762.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/12/samsung-galaxy-z-flip4-el-ganso-lanyards/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-12-05T17:00:01Z",
+      "content": "The Maison Margiela edition of the Samsung Galaxy Z Flip4 may be a bit too pricey for some. Not to mention that there are only a few hundred units available and only in select countries. For those lo… [+1010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Rajan Sarma",
+      "title": "How to unlock Porsche 911 Turbo S Exclusive Series (2019) in Need for Speed Unbound - Sportskeeda",
+      "description": "Porche is one of the most well-represented brands in the latest Need for Speed Unbound. Among all the Porche models, the Porche 911 Turbo S Exclusive series (2019) is definitely one to watch out for.",
+      "url": "https://www.sportskeeda.com/esports/how-unlock-porsche-911-turbo-s-exclusive-series-2019-need-speed-unbound",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/12/9c6b4-16702504879358-1920.jpg",
+      "publishedAt": "2022-12-05T16:08:41Z",
+      "content": "Porche is one of the most well-represented brands in the latest Need for Speed Unbound. Among all the Porche models, the Porche 911 Turbo S Exclusive series (2019) is definitely one to watch out for.… [+1985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "IANS",
+      "title": "Google releases new version of Android 13 TV OS with improved performance - Zee News",
+      "description": "Google has released the newest version of Android TV OS, Android 13 for TV, which brings further improvements in performance and accessibility to help their developers build engaging apps for the next generation of TVs.",
+      "url": "https://zeenews.india.com/technology/google-releases-new-version-of-android-13-tv-os-with-improved-performance-2544429.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/12/05/1125917-google-file.jpg",
+      "publishedAt": "2022-12-05T15:31:08Z",
+      "content": "Google has released the newest version of Android TV OS, \"Android 13\" for TV, which brings further improvements in performance and accessibility to help their developers build engaging apps for the n… [+1373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pragativadi.com"
+      },
+      "author": "Pragativadi News Service",
+      "title": "Nothing Phone (2) Not Launching Anytime Soon, Reveals Founder Carl Pei - Pragativadi",
+      "description": "What comes as great disappointment for avid gadget users eagerly waiting for the Nothing Phone (2), the London-headquartered consumer tech brand’s founder and CEO Carl Pei confirmed on Monday that the purported successor to the Nothing Phone (1) is n",
+      "url": "https://pragativadi.com/nothing-phone-2-not-launching-anytime-soon-reveals-founder-carl-pei/",
+      "urlToImage": "https://pragativadi.com/wp-content/uploads/2022/12/Untitled-design-16.png",
+      "publishedAt": "2022-12-05T15:28:34Z",
+      "content": "What comes as great disappointment for avid gadget users eagerly waiting for the Nothing Phone (2), the London-headquartered consumer tech brands founder and CEO Carl Pei confirmed on Monday that the… [+1253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mid-day"
+      },
+      "author": null,
+      "title": "Samsung planning on making fingerprint login 2.5 billion times more secure in 2025 - mid-day.com",
+      "description": "The new technology will make the full OLED screen capable of scanning multiple fingerprints simultaneously, instead of using a small scanner that can read one fingerprint at a time",
+      "url": "https://www.mid-day.com/technology/article/samsung-planning-on-making-fingerprint-login-2-5-billion-times-more-secure-in-2025-23259045",
+      "urlToImage": "https://images.mid-day.com/images/images/2022/dec/Samsung-li_d.jpg",
+      "publishedAt": "2022-12-05T15:25:00Z",
+      "content": "The new technology will make the full OLED screen capable of scanning multiple fingerprints simultaneously, instead of using a small scanner that can read one fingerprint at a time\r\nImage for represe… [+1739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": "Rohit KVN",
+      "title": "Apple Watch Series 8 review: Refined and better - Deccan Herald",
+      "description": "Apple Watch Series 8 made its global debut along with the affordable Watch SE (2nd Gen) and the top-end Watch Ultra at the annual fall event in September. The Watch Series 8 continues to feature the familiar design language of the predecessor but inside, it h…",
+      "url": "https://www.deccanherald.com/business/technology/apple-watch-series-8-review-refined-and-better-1168753.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/12/05/aws8f-cov-sho-sel-1-1168753-1670251621.jpg",
+      "publishedAt": "2022-12-05T14:40:07Z",
+      "content": "Apple Watch Series 8 made its global debut along with the affordable Watch SE (2nd Gen) and the top-end Watch Ultra at the annual fall event in September.\r\nThe Watch Series 8 continues to feature the… [+10922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Destiny 2’ Has Stopped Any And All Seasonal Marketing And No One Knows Why - Forbes",
+      "description": "Like much of the Destiny 2 community, I remain deeply confused about what’s going on with Bungie’s marketing strategy this year, in that it more or less does not have one when it comes to the seasons that are supposed to ...",
+      "url": "https://www.forbes.com/sites/paultassi/2022/12/05/destiny-2-has-stopped-any-and-all-seasonal-marketing-and-no-one-knows-why/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/638dfe49718db242c9570670/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-12-05T14:25:28Z",
+      "content": "Destiny 2\r\nBungie\r\nLike much of the Destiny 2 community, I remain deeply confused about whats going on with Bungies marketing strategy this year, in that it more or less does not have one when it com… [+3957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TelecomTALK"
+      },
+      "author": "https://www.facebook.com/TelecomTalk/",
+      "title": "Affordable 5G Phones in India Under Rs 20000 - TelecomTalk",
+      "description": "An octa-core processor, powers the Samsung Galaxy M33 5G.",
+      "url": "https://telecomtalk.info/affordable-5g-phones-in-india-under-rs-20000/628062/",
+      "urlToImage": "https://telecomtalk.info/wp-content/uploads/2022/12/best-5g-smartphones-under-rs-20000-in.jpeg",
+      "publishedAt": "2022-12-05T14:21:51Z",
+      "content": "Many customers are searching for the greatest models money can buy because 5G smartphones are the newest trend on the market. In a few cities across the nation, 5G service is now being offered by bot… [+2485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "WhatsApp releasing PiP mode for video calls! Check details - HT Tech",
+      "description": "A new WhatsApp feature called picture-in-picture mode for WhatsApp video calls is now available for some beta testers. Here is what you need to know.",
+      "url": "https://tech.hindustantimes.com/tech/news/whatsapp-releasing-pip-mode-for-video-calls-check-details-71670247878845.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/12/05/1600x900/WhatsApp_HT_Tech_1670249928962_1670249936656_1670249936656.jpg",
+      "publishedAt": "2022-12-05T14:19:51Z",
+      "content": "Do you use WhatsApp's video call feature to reach out to people? WhatsApp is releasing a new mode named picture-in-picture (PiP) mode for video calls. However, the new mode is currently available for… [+1637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "iPhone 13 price crashes to under 50000! Check this amazing Flipkart discount - HT Tech",
+      "description": "You can nab iPhone 13 for under Rs. 50000 on Flipkart. Check this amazing deal in detail.",
+      "url": "https://tech.hindustantimes.com/mobile/news/iphone-13-price-crashes-to-under-50000-check-this-amazing-flipkart-discount-71670249580261.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/12/05/1600x900/4_1646716534850_1670249623800_1670249623800.jpg",
+      "publishedAt": "2022-12-05T14:16:10Z",
+      "content": "Christmas will be upon us very soon. And this festive occasion provides an amazing moment to share gifts with your loved ones. However, when it comes to giving gifts, there are a lot of options to co… [+1468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Ankita Garg",
+      "title": "Best in 2022: Smartphones under Rs 15,000 that ruled this year - India Today",
+      "description": "In 2022, we witnessed phone launches with the latest technologies in the range of Rs 30,000 (or higher) and slow growth in the lower-priced segments.",
+      "url": "https://www.indiatoday.in/technology/features/story/best-in-2022-smartphones-under-rs-15000-that-ruled-this-year-2305630-2022-12-05",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/realme_9i-sixteen_nine.jpg?VersionId=TpZphXMFT7wtSfn8.2XrbjvllfZRHBiK",
+      "publishedAt": "2022-12-05T14:08:33Z",
+      "content": "By Ankita Garg: 2022 is almost nearing its end and it is now time to look back at some of the best devices that were launched this year. Just like last year, 2022 also witnessed tons of 5G phone laun… [+5586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Expatguideturkey.com"
+      },
+      "author": "Gül Demirci",
+      "title": "Google Play Store Announced The List: The Best Apps and Games of 2022 - Expat Guide Turkey",
+      "description": "Google Play Store Announced The List: The Best Apps and Games of 2022 Google, the owner of the Android operating system, announced the best applications and games in the Play Store. Best-selling audio",
+      "url": "https://expatguideturkey.com/google-play-store-announced-the-list-the-best-apps-and-games-of-2022/",
+      "urlToImage": "https://expatguideturkey.com/wp-content/uploads/2022/12/play-store-1.png",
+      "publishedAt": "2022-12-05T14:04:08Z",
+      "content": "Google Play Store Announced The List: The Best Apps and Games of 2022\r\nGoogle, the owner of the Android operating system, announced the best applications and games in the Play Store. Best-selling aud… [+3093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Alien survival horror game Greyhill Incident launches in Q2 2023 for PS5, PS4, PC, and “other consoles” - Gematsu",
+      "description": "Alien-themed story-driven survival horror game Greyhill Incident will launch for PlayStation 5, PlayStation 4, PC via Steam, and \"other consoles\" in Q2 2023, developer Refugium Games announced.",
+      "url": "https://www.gematsu.com/2022/12/alien-survival-horror-game-greyhill-incident-launches-in-q2-2023-for-ps5-ps4-pc-and-other-consoles",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2022/12/Greyhill-Incident-Ann_12-05-22.jpg",
+      "publishedAt": "2022-12-05T13:46:33Z",
+      "content": "Alien-themed story-driven survivalhorror gameGreyhill Incident will launch for PlayStation 5, PlayStation 4, PC via Steam, and “other consoles” in Q2 2023, developer Refugium Games announced. The con… [+1662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Vineet Kumar Naik",
+      "title": "Genshin Impact Wanderer web event: How to get 40 primogems easily - Sportskeeda",
+      "description": "With the new patch 3.3 update arriving in just a few days, Genshin Impact has launched another web event. This one revolves around Scaramouche exploring Sumeru and having new experiences.",
+      "url": "https://www.sportskeeda.com/esports/genshin-impact-wanderer-web-event-how-get-40-primogems-easily",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/12/95a3a-16702262756987-1920.jpg",
+      "publishedAt": "2022-12-05T13:43:37Z",
+      "content": "With the new patch 3.3 update arriving in just a few days, Genshin Impact has launched another web event. This one revolves around Scaramouche exploring Sumeru and having new experiences. Called \"Flu… [+3072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Realme 10 Pro Series Malaysia Price Details Leaked Ahead of December 8 Launch - NDTV",
+      "description": "Realme 10 Pro+ 5G and Realme 10 Pro 5G are all set to launch in India and Malaysia on December 8. Ahead of the official debut, price details of the smartphones in Malaysia have leaked online. Both handsets are backed by a 5,000mAh battery and run-on",
+      "url": "https://www.ndtv.com/tech/realme-10-pro-plus-5g-price-in-malaysia-myr-1799-1299-leak-3579937",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/93qj9vig_realme-10-pro_625x300_05_December_22.jpg",
+      "publishedAt": "2022-12-05T13:42:56Z",
+      "content": "Launch event of Realme 10 Pro series will start at 12:30pm IST\r\nRealme 10 Pro+ 5G and Realme 10 Pro 5G were unveiled in China last month and are set to go official in other global markets including I… [+2028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Rajan Sarma",
+      "title": "How to unlock Aston Martin Vulcan (2016) in Need for Speed Unbound - Sportskeeda",
+      "description": "Aston Martin Vulcan is a powerful car to behold in Need for Speed Unbound.",
+      "url": "https://www.sportskeeda.com/esports/how-unlock-aston-martin-vulcan-2016-need-speed-unbound",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/12/e9bb8-16702329565717-1920.jpg",
+      "publishedAt": "2022-12-05T13:39:32Z",
+      "content": "Aston Martin Vulcan is a powerful car to behold in Need for Speed Unbound. Released just a couple of days ago, Unbound is the brand-new mainline title of the popular aforementioned arcade racing fran… [+2638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Sneha Saha",
+      "title": "iPhone 15 Ultra could be the most expensive iPhone of 2023: 5 things we know - India Today",
+      "description": "Rumours suggest that next year Apple will launch an \"ultra\" model instead of \"pro max\". In other words, in 2023, we could see the iPhone 15 Ultra instead of the iPhone 14 Pro Max.",
+      "url": "https://www.indiatoday.in/technology/features/story/iphone-15-ultra-most-expensive-iphone-launch-2023-specs-price-details-everything-else-2305617-2022-12-05",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/iphone_14_pro_main_image_1-sixteen_nine.jpg?VersionId=rEeNIuhsSx4hgLYwrw2fDzULpYFexkYd",
+      "publishedAt": "2022-12-05T13:36:49Z",
+      "content": "By Sneha Saha: This year, Apple launched the iPhone 14 series among some other models. The lineup includes four models in total the iPhone 14, the iPhone 14 Plus, the iPhone 14 Pro, and the iPhone 14… [+2988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ExtremeTech"
+      },
+      "author": "Josh Norem",
+      "title": "Apple Is Now Calling Its AR/VR Headset Operating System 'xrOS' - ExtremeTech",
+      "description": "Apple might be following in Meta's footsteps by offering a mixed-reality device with a price tag in the stratosphere.",
+      "url": "https://www.extremetech.com/?p=341290",
+      "urlToImage": "https://www.extremetech.com/wp-content/uploads/2022/01/apple-view-concept-right-corner-e1661860173264-640x360.jpg",
+      "publishedAt": "2022-12-05T13:14:00Z",
+      "content": "(Photo: Apple headset render via Antonio DeRosa)\r\nApple seems to be getting close to the launch of its much-hyped AR/VR headset, as it’s reportedly settled on a name for the operating system. Noted A… [+2799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Tech Desk",
+      "title": "Fortnite chapter 4 goes official: New island, weapons, and dirtbikes - The Indian Express",
+      "description": "Fortnite chapter 4 is now official and is available for free on PC, Xbox, Playstation, Nintendo Switch, and Android devices.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/fortnite-chapter-4-launch-features-8307203/",
+      "urlToImage": "https://images.indianexpress.com/2022/12/fortnite-chapter-4.jpg",
+      "publishedAt": "2022-12-05T13:01:07Z",
+      "content": "With every new chapter release, Fornite gets a major overhaul with new weapons, costumes, vehicles, and islands to keep the players engaged with new content. Fortnite chapter 4 is now official, which… [+1570 chars]"
+    }
+  ]
 }
