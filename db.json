@@ -1,10 +1,264 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
-  
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "Japan vs Croatia FIFA World Cup 2022 Live: Ivan Perisic Nearly Puts Croatia In Front vs Japan; It's 1-1 - NDTV Sports",
+            "description": "FIFA World Cup 2022, Japan vs Croatia Live: Croatia and Japan square-off in Round of 16 match.",
+            "url": "https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-japan-vs-croatia-football-live-score-updates-3579830",
+            "urlToImage": "https://c.ndtvimg.com/2022-12/jna4piuo_japan-vs-croatia-_625x300_05_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2022-12-05T16:35:26Z",
+            "content": "FIFA World Cup 2022, Japan vs Croatia, Round of 16  Live Updates:Both Japan and Croatia squandered a few early opportunities to score. But, just minutes before the half-time whistle, Daizen Maeda ope… [+254 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "Sampath Bandarupalli",
+            "title": "Stats - 1768 runs, and a rare Test win in Pakistan - ESPNcricinfo",
+            "description": "Stats highlights from a run-fest in Rawalpindi, where England claimed a famous victory following a brave declaration",
+            "url": "https://www.espncricinfo.com/story/eng-vs-pak-2022-1st-test-stats-1768-runs-and-a-rare-test-win-in-pakistan-1348211",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/350200/350294.6.jpg",
+            "publishedAt": "2022-12-05T15:28:06Z",
+            "content": "Stats AnalysisStats highlights from a run-fest in Rawalpindi, where England claimed a famous victory following a brave declaration"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": null,
+            "title": "Would I have declared when Ben Stokes did? I wouldn't have dared - The Telegraph",
+            "description": "Stokes has nothing left to prove as a player and that makes him exceptionally dangerous as a captain",
+            "url": "https://www.telegraph.co.uk/cricket/2022/12/05/would-have-declared-when-ben-stokes-did-wouldnt-have-dared/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/cricket/2022/12/05/TELEMMGLPICT000318711416_1_trans_NvBQzQNjv4Bq6Kep885cKhLnVNDtI739Rqmn_Tb9IEkYMJxts987ozA.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-12-05T13:59:00Z",
+            "content": "We have just witnessed a captaincy masterclass. Honestly, I cannot remember a better tactical performance by an England captain than the one Ben Stokes produced in Rawalpindi this week.\r\nI cant think… [+2360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Cristiano Ronaldo joins Al-Nassr, agrees 200 million euros deal: Report - Hindustan Times",
+            "description": "Cristiano Ronaldo has made a sensational move to Saudi Arabia side Al-Nassr on a two and a half year deal, worth 200 million euros per season. | Football News",
+            "url": "https://www.hindustantimes.com/sports/football/cristiano-ronaldo-joins-al-nassr-agrees-200-million-euros-deal-report-101670245059222.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/Qatar-Soccer-W_1670245192841_1670245193036_1670245193036.jpg",
+            "publishedAt": "2022-12-05T13:01:28Z",
+            "content": "With Manchester United recently terminating his contract, Cristiano Ronaldo has sensationally joined Saudi Arabian club Al-Nassr on a two and a half year deal worth 200 million euros per season. The … [+1863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "How Pakistan's loss to England boosted India's chances of making WTC final - Hindustan Times",
+            "description": "For Pakistan, it was surely a heartbreak as they didn't just go down in the match and in the series, but their chances of making the World Tet Championship final suffered a major blow, which subsequently boosted India's chances. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/how-pakistan-s-loss-to-england-in-rawalpindi-boosted-india-s-chances-of-making-world-test-championship-final-101670242406781.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/New_Project_-_2022-12-05T174721839_1670242761259_1670242761434_1670242761434.jpg",
+            "publishedAt": "2022-12-05T12:38:30Z",
+            "content": "England scripted a sensational win on Monday the most benign of pitches as they beat Pakistan by 74 runs in the opening match of the series. It was a bold move on Sunday evening when they declared th… [+1979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "'Latif was a lobbyist, Sohail a zombie. Waqar was captain only because…': Akram - Hindustan Times",
+            "description": "As we inch closer to the release date of Wasim Akram's biography 'Sultan: The Memoir', more explosive details from the former Pakistan captain's career are coming to the fore. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/rashid-latif-was-a-lobbyist-aamir-sohail-zombie-waqar-was-captain-only-because-wasim-akram-s-shocking-claims-101670239399081.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/wasim-waqar-old-getty_1670239684421_1670239688875_1670239688875.jpg",
+            "publishedAt": "2022-12-05T11:30:07Z",
+            "content": "As we inch closer to the release date of Wasim Akram's biography 'Sultan: A Memoir', more explosive details from the former Pakistan captain's career are coming to the fore. The book, that has alread… [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "'It'll happen if you don't respect the game': Jadeja slams IND's batting vs BAN - Hindustan Times",
+            "description": "India's batting was immensely criticised and Jadeja joined the bandwagon in questioning the approach of the Indian side, slamming them for not respecting the sport. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/itll-happen-if-you-don-t-respect-the-game-ajay-jadeja-questions-logic-behind-india-s-batting-approach-in-bangladesh-1st-odi-101670236468312.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/ANI-20221204139-0_1670236896158_1670236896158_1670236913908_1670236913908.jpg",
+            "publishedAt": "2022-12-05T11:07:17Z",
+            "content": "A sensational tenth-wicket partnership between Mehidy Hasan Miraz and Mustafizur Rahman helped Bangladesh recover from the middle-order collapse to secure a memorable one-wicket win in Mirpur. The In… [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cricbuzz"
+            },
+            "author": null,
+            "title": "Pacy Ebadot bolsters Bangladesh's middle overs attack | Cricbuzz.com - Cricbuzz - Cricbuzz",
+            "description": "The fast bowler is being seen as the bowler who can play an attacking role in ODIs",
+            "url": "https://www.cricbuzz.com/cricket-news/124727/pacy-ebadot-bolsters-bangladeshs-middle-overs-attack-cricbuzzcom",
+            "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249539/ebadot-picked-up-four-against-india.jpg",
+            "publishedAt": "2022-12-05T11:04:59Z",
+            "content": "It was not long ago when pacer Ebadot Hossain was considered to be a Test specialist. Considered to be one of the fastest bowlers, his lack of accuracy was held against him in the white-ball formats.… [+3944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportskeeda"
+            },
+            "author": "Sportskeeda Desk",
+            "title": "ALY vs HAW Live Score - ECS T10 - Barcelona Live Score & Commentary | Ali Youngstars vs Hawks CC Score - Sportskeeda",
+            "description": "Ali Youngstars vs Hawks CC ECS T10 - Barcelona Live Score - Catch live cricket score, ball by ball commentary and highlights of ALY vs HAW.",
+            "url": "https://www.sportskeeda.com/live-cricket-score/ali-youngstars-vs-hawks-cc-match-98-05-december-2022",
+            "urlToImage": null,
+            "publishedAt": "2022-12-05T10:56:22Z",
+            "content": "Hawks beat Ali Youngstars by 5 wickets!Mubashar Ali 72 (30)* | Karamat Subhani 2/19Kamran Zia 33 (19) | Farooq Ahmed 2/34\r\nHawks got off to a decent start and they managed to do this despite the bowl… [+1125 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Cricket Betting Tips and Fantasy Cricket Match Predictions: Barbados T10 2022 - Warriors vs Guardians, Match 1: 5th Dec - Cricket World",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy5jcmlja2V0d29ybGQuY29tL2NyaWNrZXQtYmV0dGluZy10aXBzLWFuZC1mYW50YXN5LWNyaWNrZXQtbWF0Y2gtcHJlZGljdGlvbnMtYmFyYmFkb3MtdDEwLTIwMjItd2FycmlvcnMtdnMtZ3VhcmRpYW5zLW1hdGNoLTEtNXRoLWRlYy84Mzc3Ni5odG3SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-05T10:38:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Formula 1"
+            },
+            "author": "F1",
+            "title": "‘My commitment is very much with Red Bull’ – Horner rules out Ferrari move after Binotto’s exit - Formula 1",
+            "description": "Christian Horner has made clear that he is not interested in switching Red Bull for Ferrari following confirmation that Mattia Binotto will leave the Scuderia at the end of the year.",
+            "url": "https://www.formula1.com/en/latest/article.my-commitment-is-very-much-with-red-bull-horner-rules-out-ferrari-move-after.NUM5PXjr7nQr2JQdbfRCh.html",
+            "urlToImage": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/MonacoGP/Sunday/horner-binotto.jpg",
+            "publishedAt": "2022-12-05T10:36:34Z",
+            "content": "Christian Horner has made clear that he is not interested in swapping Red Bull for Ferrari following confirmation that Mattia Binotto will leave the Scuderia at the end of the year.\r\nFerrari ended in… [+1828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cricbuzz"
+            },
+            "author": null,
+            "title": "Azhar Ali, Agha Salman set up exhilarating final session in Rawalpindi | Cricbuzz.com - Cricbuzz - Cricbuzz",
+            "description": "The duo stitched an unbeaten 59-run stand for the sixth wicket, leaving Pakistan only 86 short of the target",
+            "url": "https://www.cricbuzz.com/cricket-news/124726/azhar-ali-agha-salman-set-up-exhilarating-final-session-in-rawalpindi-cricbuzzcom",
+            "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249537/ollie-robinson-picked-up-saud-shakeels-wicket.jpg",
+            "publishedAt": "2022-12-05T10:33:28Z",
+            "content": "Azhar Ali and Agha Salman survived late scares to head safely to Tea, with Pakistan at 257 for 5, only 86 runs short of the target on the fifth day in Rawalpindi. The duo stitched an unbeaten 59-run … [+2585 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zoom"
+            },
+            "author": "TN Sports Desk",
+            "title": "'Every U-16 or U-18 cricketer would know that...': Ex-Pak spinner slams Rohit Sharma after loss vs Bangladesh - Times Now",
+            "description": "Washington Sundar was one of the pick of the bowlers for India as he picked up 2 wickets for 17 runs. But, in spite of his good spell, he was only used for 5 overs. Hence, former Pak spinner questioned why Rohit did not use Sundar for his full quota.",
+            "url": "https://www.timesnownews.com/sports/cricket/every-u-16-or-u-18-cricketer-would-know-that-ex-pak-spinner-slams-rohit-sharma-after-loss-vs-bangladesh-article-95999784",
+            "urlToImage": "https://static.tnn.in/thumb/msid-95999784,imgsize-100,width-1280,height-720,resizemode-75/95999784.jpg",
+            "publishedAt": "2022-12-05T10:30:16Z",
+            "content": "52:03\r\nExit Polls Predict BJP Set To Retain Power In Gujarat, Close Contest In Himachal Pradesh | Times Now"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "'This is no longer CR7, it's CR37': 70% fans don't want Ronaldo in starting XI - Hindustan Times",
+            "description": "Ahead of the knockout tie a poll conducted by a Portuguese sports newspaper A Bola showed a surprising outcome. | Football News",
+            "url": "https://www.hindustantimes.com/sports/football/this-is-no-longer-cr7-it-s-cr37-70-per-cent-portugal-fans-don-t-want-cristiano-ronaldo-in-starting-xi-vs-switzerland-101670232477275.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/FBL-WC-2022-TRAINING-POR-15_1670235226251_1670235226251_1670235261241_1670235261241.jpg",
+            "publishedAt": "2022-12-05T10:16:32Z",
+            "content": "Cristiano Ronaldo's Portugal will take on Switzerland in the round of 16 clash at the FIFA World Cup 2022 on Wednesday. However, ahead of the knockout tie a poll conducted by a Portuguese sports news… [+1856 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Watch - Blink and you'll miss: The 'SKY' sign on Rohit Sharma's bat, video viral - Hindustan Times",
+            "description": "Suryakumar Yadav is not part of India's ongoing tour of Bangladesh but his presence was briefly felt during the first ODI between India and Bangladesh on Sunday at Dhaka. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/watch-blink-and-you-ll-miss-camera-captures-suryakumar-yadav-sign-on-rohit-sharma-s-bat-during-1st-odi-video-viral-101670230886441.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/05/1600x900/rohit-sky-bat_1670231558948_1670231564153_1670231564153.jpg",
+            "publishedAt": "2022-12-05T09:14:23Z",
+            "content": "Indian cricketers are usually very possessive about their equipment and kits, but apparently, it isn't the case with the current lot. Suryakumar Yadav is not part of India's ongoing tour of Banglades… [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "ESPNcricinfo staff",
+            "title": "Shafali Verma to lead India at Under-19 Women's T20 World Cup, Richa Ghosh also picked - ESPNcricinfo",
+            "description": "Shweta Sehrawat, who is currently leading the Under-19 girls against New Zealand in Mumbai, has been named vice-captain",
+            "url": "https://www.espncricinfo.com/story/shafali-verma-to-lead-india-at-under-19-womens-world-cup-richa-ghosh-also-picked-1348179",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/347400/347488.6.jpg",
+            "publishedAt": "2022-12-05T08:10:41Z",
+            "content": "NewsShweta Sehrawat, who is currently leading the Under-19 girls against New Zealand in Mumbai, has been named vice-captain"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arab News"
+            },
+            "author": "AP",
+            "title": "Saudi Arabia set to host 2027 Asian Cup after India withdraws bid - Arab News",
+            "description": "KUALA LUMPUR: Saudi Arabia is set to host the 2027 Asian Cup after India withdrew its bid. The Asian Football Confederation issued a statement Monday saying the All Indian Football Federation had withdrawn from the host selection process. No reason was publis…",
+            "url": "https://www.arabnews.com/node/2211001",
+            "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/12/05/3571726-1518726147.jpg?itok=po696h0j",
+            "publishedAt": "2022-12-05T08:03:08Z",
+            "content": "DUBAI: The best 16 mens and 12 womens teams in the world took to the pitch at this years Emirates Dubai 7s as part of the HSBC World Rugby Sevens Series calendar, and there is compelling evidence tha… [+3347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insidesport.in"
+            },
+            "author": null,
+            "title": "India New T20 Coach: Rahul Dravid on his way-out? BCCI 'seriously mulling' of appointing NEW-COACH for India's T20 team: Follow LIVE UPDATES - InsideSport",
+            "description": "India New T20 Coach: BCCI 'seriously mulling' of appointing NEW-COACH for India's T20 team, Rahul Dravid on his way-out, IND vs BAN LIVE, IND SL T20 Series",
+            "url": "https://www.insidesport.in/india-new-t20-coach-bcci-seriously-mulling-of-appointing-new-coach-for-indias-t20-team-rahul-dravid-on-his-way-out-follow-live-updates/",
+            "urlToImage": "https://www.insidesport.in/wp-content/uploads/2022/12/eng-banner-Copy.jpg?w=809",
+            "publishedAt": "2022-12-05T07:59:36Z",
+            "content": "India New T20 Coach – Rahul Dravid on his WAY-OUT? The info coming out of the BCCI Headquarters in Mumbai is that…India New T20 Coach –Rahul Dravid on his WAY-OUT? The info coming out of the BCCI Hea… [+4647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cricbuzz"
+            },
+            "author": null,
+            "title": "Jaydev Unadkat and the transformative arc of Saurashtra's white-ball cricket | Cricbuzz.com - Cricbuzz - Cricbuzz",
+            "description": "A formidable force in red-ball cricket, Saurashtra have evolved by leaps and bounds in the shorter forms with the Vijay Hazare Trophy win a testament to their rise",
+            "url": "https://www.cricbuzz.com/cricket-news/124724/jaydev-unadkat-and-the-transformative-arc-of-saurashtras-white-ball-cricket-cricbuzzcom",
+            "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c249531/in-the-centre-of-the-saurashtra-renaissance-jaydev-unadkat.jpg",
+            "publishedAt": "2022-12-05T07:36:55Z",
+            "content": "Jaydev to Jaydev... that transformation is the astonishing narrative of Saurashtra's white-ball success. Jaydev Shah, a record holder in captaincy in first class cricket, built a strong red-ball team… [+5406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sporting News"
+            },
+            "author": null,
+            "title": "'You're f*cking Neymar!' - Can Brazil's most polarising player reignite World Cup campaign? - GOAL English",
+            "description": "Get all the latest Soccer news, highlights, scores, schedules, standings and more from Sporting News Canada.",
+            "url": "https://www.sportingnews.com/ca/soccer",
+            "urlToImage": "https://static.sportingnews.com/1.21.1.2/themes/custom/tsn/logo.jpg",
+            "publishedAt": "2022-12-05T07:01:39Z",
+            "content": null
+        }
+    ]
+}
